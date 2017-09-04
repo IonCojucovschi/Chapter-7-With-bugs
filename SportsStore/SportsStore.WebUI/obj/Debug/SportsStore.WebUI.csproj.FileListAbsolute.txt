@@ -1,0 +1,126 @@
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\csc.exe
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\csc.exe.config
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\csc.rsp
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\csi.exe
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\csi.rsp
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\System.AppContext.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\System.IO.FileSystem.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\vbc.exe
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\vbc.exe.config
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\vbc.rsp
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll.config
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\Ninject.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\WebActivatorEx.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\NHibernate.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\FluentNHibernate.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\Iesi.Collections.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\Ninject.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\NHibernate.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\FluentNHibernate.pdb
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\FluentNHibernate.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\bin\Iesi.Collections.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\csc.exe
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\csc.exe.config
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\csc.rsp
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\csi.exe
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\csi.rsp
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\System.AppContext.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\System.IO.FileSystem.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\vbc.exe
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\vbc.exe.config
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\vbc.rsp
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll.config
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\FluentNHibernate.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\Iesi.Collections.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\NHibernate.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\Ninject.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\WebActivatorEx.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\FluentNHibernate.pdb
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\FluentNHibernate.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\Iesi.Collections.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\NHibernate.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\Ninject.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb

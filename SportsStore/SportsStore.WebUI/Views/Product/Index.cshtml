@@ -1,0 +1,26 @@
+﻿@using SportsStore.Domain.Entities
+@model IList<Product>
+
+@{
+    ViewBag.Title = "Index";
+}
+<table>
+    <thead>
+        <tr>
+            <td>id</td><td>Name</td><td>Price</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+           <tr>
+               <td>@p.ProductID</td>
+               <td>@p.Name</td>
+               <td>@p.Price</td>
+           </tr>
+            }
+
+    </tbody>
+   
+</table>
+

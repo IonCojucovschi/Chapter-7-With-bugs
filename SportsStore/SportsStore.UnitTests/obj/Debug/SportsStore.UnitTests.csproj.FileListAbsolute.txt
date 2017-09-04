@@ -1,0 +1,12 @@
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.pdb
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.csprojResolveAssemblyReference.cache
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.pdb

@@ -1,0 +1,24 @@
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.Domain\bin\Debug\FluentNHibernate.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.Domain\bin\Debug\Iesi.Collections.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.Domain\bin\Debug\NHibernate.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.Domain\bin\Debug\FluentNHibernate.pdb
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.Domain\bin\Debug\FluentNHibernate.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.Domain\bin\Debug\Iesi.Collections.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.Domain\bin\Debug\NHibernate.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\Chapter 7\with nhiberante\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.Domain\bin\Debug\FluentNHibernate.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.Domain\bin\Debug\Iesi.Collections.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.Domain\bin\Debug\NHibernate.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.Domain\bin\Debug\FluentNHibernate.pdb
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.Domain\bin\Debug\FluentNHibernate.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.Domain\bin\Debug\Iesi.Collections.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.Domain\bin\Debug\NHibernate.xml
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+D:\Cursuri\Modulul 3\practice MVC\ASP.NEt Sursa1\WebApp2\with nhiberante\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
